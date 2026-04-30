@@ -59,7 +59,7 @@ first_session: 1
 source: player-created
 confidence: established
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-04-30
 ---
 
 ## Description
@@ -162,7 +162,7 @@ John does not yet hold Influence over either teammate.
 
 ## History
 
-*[Append significant events here; tag [Session N].]*
+**[Session 1]** Led the team on their first operational mission. Chose tunnel infiltration route to Warehouse 17 for element of surprise. Directed Cinder to talk down [[Wiki/NPCs/Elena-Reyes]], then ordered the aerial extraction when she went critical. Ran the research thread on [[Wiki/Factions/Pinnacle-Solutions]] and [[Wiki/NPCs/Marcus-Webb]] — pulled the Prometheus Labs connection from Cypher's archives. Assessed Subject 17's transmission (rolled 12 on Assess the Situation) and negotiated the intel exchange. Made the call to split the team across three simultaneous extractions. Now en route to Northgate High to extract [[Wiki/NPCs/Deshawn-Williams]] before Pinnacle's overnight team arrives.
 
 ## Advancement Log
 
@@ -175,3 +175,8 @@ John does not yet hold Influence over either teammate.
 - [[Wiki/PCs/Cinder]] — teammate; prior history
 - [[Wiki/PCs/Glitch]] — teammate; under Cypher's watch order
 - [[Wiki/Locations/Cyphers-Base]] — team headquarters
+- [[Wiki/NPCs/Elena-Reyes]] — first rescue; briefed her on the full picture [Session 1]
+- [[Wiki/NPCs/Deshawn-Williams]] — assigned extraction target [Session 1]
+- [[Wiki/NPCs/Subject-17]] — assessed and negotiated with [Session 1]
+- [[Wiki/Conspiracy/Prometheus-Conspiracy]] — uncovered the scheme [Session 1]
+- [[Wiki/Sessions/Session-01-Warehouse-17]]

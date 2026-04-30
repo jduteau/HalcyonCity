@@ -19,7 +19,7 @@ label_mundane: +1
 # Conditions (live — overwrite each session; true = marked)
 condition_afraid: false
 condition_angry: false
-condition_guilty: false
+condition_guilty: true
 condition_hopeless: false
 condition_insecure: false
 
@@ -41,7 +41,7 @@ first_session: 1
 source: player-created
 confidence: established
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-04-30
 ---
 
 ## Description
@@ -144,7 +144,7 @@ Cinder holds Influence over Glitch at start of play (per pre-campaign setup).
 
 ## History
 
-*[Append significant events here; tag [Session N].]*
+**[Session 1]** Helped navigate the tunnel route to Warehouse 17 and ran overwatch. Assigned to contact extraction for [[Wiki/NPCs/Elena-Reyes]] situation. Attempted to hack [[Wiki/Factions/Pinnacle-Solutions]] servers to research Marcus Webb and trace the vans — tripped military-grade ICE. Killed the trace before it could be followed home, but Pinnacle now knows someone was looking. Took the Guilty condition. Left on the first solo field operation: intercept Marcus Chen at an Eastside bodega before Pinnacle's extraction team arrives.
 
 ## Advancement Log
 
@@ -155,3 +155,6 @@ Cinder holds Influence over Glitch at start of play (per pre-campaign setup).
 - [[Wiki/PCs/Vigil]] — teammate; Glitch holds Influence over him
 - [[Wiki/PCs/Cinder]] — teammate; Glitch holds Influence over him; shared history, old wound
 - [[Wiki/Locations/Cyphers-Base]] — team headquarters
+- [[Wiki/NPCs/Marcus-Chen]] — assigned extraction target [Session 1]
+- [[Wiki/Factions/Pinnacle-Solutions]] — tripped their ICE; Guilty condition [Session 1]
+- [[Wiki/Sessions/Session-01-Warehouse-17]]

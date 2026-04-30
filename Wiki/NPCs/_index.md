@@ -1,7 +1,7 @@
 ---
 type: hub
 namespace: Wiki/NPCs
-updated: 2026-04-29
+updated: 2026-04-30
 ---
 
 # NPCs
@@ -18,6 +18,16 @@ Named GM-controlled characters.
 
 ## Silver Generation
 - [[Wiki/NPCs/Silver-Savior]] — First Silver Generation hero
+
+## Session 1 — Emerging Threats & Contacts
+- [[Wiki/NPCs/Elena-Reyes]] — Physics grad student; manifested light/heat powers; rescued from Pinnacle; now at base
+- [[Wiki/NPCs/Marcus-Webb]] — CEO, Pinnacle Solutions; former Prometheus Labs director; primary antagonist
+- [[Wiki/NPCs/Subject-17]] — Prometheus Labs survivor; anonymous contact; history with Cypher
+
+## Session 1 — Extraction Targets (Pinnacle sweep)
+- [[Wiki/NPCs/Marcus-Chen]] — Age 19; electrokinetic; Eastside bodega; Glitch assigned
+- [[Wiki/NPCs/Deshawn-Williams]] — Age 16; phasing; Northgate High; Vigil assigned
+- [[Wiki/NPCs/Lily-Vasquez]] — Age 14; pre-manifestation; Miller Street group home; Cinder assigned
 
 ## See Also
 

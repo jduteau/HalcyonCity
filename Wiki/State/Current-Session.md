@@ -3,7 +3,7 @@ type: knowledge
 domain: state
 confidence: established
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-04-30
 ---
 
 # Current Session State
@@ -11,7 +11,7 @@ updated: 2026-04-29
 Team:
 - [[Wiki/PCs/Vigil]] (The Protégé) — Conditions: none | Potential: 0/5
 - [[Wiki/PCs/Cinder]] (The Nova) — Conditions: none | Potential: 0/5
-- [[Wiki/PCs/Glitch]] (The Delinquent) — Conditions: none | Potential: 0/5
+- [[Wiki/PCs/Glitch]] (The Delinquent) — Conditions: Guilty | Potential: 0/5
 
 Labels (snapshot):
 - Vigil:  Freak 0 | Danger 0 | Savior +1 | Superior +2 | Mundane 0
@@ -26,12 +26,11 @@ Active Influence:
 - [[Wiki/PCs/Glitch]] holds Influence over Vigil
 - [[Wiki/PCs/Glitch]] holds Influence over Cinder
 
-Location: [[Wiki/Locations/Cyphers-Base]]
+Location: [[Wiki/Locations/Cyphers-Base]] (team departed; in the field across Halcyon City)
 
-Situation: Three young heroes — a protégé, a barely-controlled nova,
-and a troublemaking delinquent — have come together under Cypher's
-resources with unresolved histories between them and no first mission yet.
+Situation: Team split across city racing to extract three Pinnacle targets before extraction teams arrive. [[Wiki/NPCs/Elena-Reyes]] alone at base on comms, uncontrolled powers, still a Pinnacle target.
 
-Active Threads: none yet
+Active Threads:
+- [[Wiki/Conspiracy/Prometheus-Conspiracy]] — Pinnacle Solutions sweep active; team intercepting three targets
 
-Last Session: none — pre-campaign setup
+Last Session: [[Wiki/Sessions/Session-01-Warehouse-17]]

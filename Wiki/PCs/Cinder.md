@@ -44,7 +44,7 @@ first_session: 1
 source: player-created
 confidence: established
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-04-30
 ---
 
 ## Description
@@ -144,7 +144,7 @@ Glitch holds Influence over Cinder at start of play (per pre-campaign setup).
 
 ## History
 
-*[Append significant events here; tag [Session N].]*
+**[Session 1]** Responded to thermal anomaly alert at Warehouse 17. Stepped forward to talk down [[Wiki/NPCs/Elena-Reyes]] using his own fire as a demonstration — came within range of a critically unstable nova, alone, and nearly succeeded. When she went critical from exhaustion, obeyed Vigil's order and flew her out of the warehouse at full burn, reaching two hundred meters before she discharged. The detonation lit up the Halcyon City waterfront. Came down in the alley with his flames guttered and Elena unconscious in his arms. Recovered at base, then deployed for the Miller Street group home extraction of [[Wiki/NPCs/Lily-Vasquez]] — a fourteen-year-old pre-manifestation target who doesn't know what's coming for her. Warned by Vigil not to escalate.
 
 ## Advancement Log
 
@@ -155,3 +155,6 @@ Glitch holds Influence over Cinder at start of play (per pre-campaign setup).
 - [[Wiki/PCs/Vigil]] — teammate; Cinder holds Influence over him
 - [[Wiki/PCs/Glitch]] — teammate; Cinder holds Influence over her; hurt her once
 - [[Wiki/Locations/Cyphers-Base]] — team headquarters
+- [[Wiki/NPCs/Elena-Reyes]] — talked her down; flew her to safety; she trusts him [Session 1]
+- [[Wiki/NPCs/Lily-Vasquez]] — assigned extraction target [Session 1]
+- [[Wiki/Sessions/Session-01-Warehouse-17]]
