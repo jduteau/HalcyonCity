@@ -6,6 +6,6 @@ updated: "2026-04-29"
 
 # Factions
 
-Add child pages below as your wiki grows.
+Organizations, agencies, and groups active in Halcyon City.
 
-- [[Wiki/Factions/SubTopic]] -- Description of subtopic
+- [[Wiki/Factions/AEGIS]] — Advanced Expert Group for Intervention and Security; the primary governmental metahuman agency

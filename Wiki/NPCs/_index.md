@@ -6,6 +6,7 @@ updated: "2026-04-29"
 
 # NPCs
 
-Add child pages below as your wiki grows.
+Non-player characters in Halcyon City.
 
-- [[Wiki/NPCs/SubTopic]] -- Description of subtopic
+- [[Wiki/NPCs/Flying-Freedom]] — Maggie MacIntyre; first public superhero; Gold Generation founder; deceased
+- [[Wiki/NPCs/Silver-Savior]] — First Silver Generation hero; wielder of the Silver Spark; set the template for an era
