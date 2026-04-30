@@ -1,11 +1,16 @@
 ---
 type: hub
-namespace: "Wiki/State"
-updated: "2026-04-29"
+namespace: Wiki/State
+updated: 2026-04-29
 ---
 
 # State
 
-Add child pages below as your wiki grows.
+Current session state block.
 
-- [[Wiki/State/SubTopic]] -- Description of subtopic
+- [[Wiki/State/Current-Session]] — Live team status
+
+## See Also
+
+- [[Wiki/Sessions]]
+- [[Wiki/Dashboard]]

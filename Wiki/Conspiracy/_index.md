@@ -1,11 +1,17 @@
 ---
 type: hub
-namespace: "Wiki/Conspiracy"
-updated: "2026-04-29"
+namespace: Wiki/Conspiracy
+updated: 2026-04-29
 ---
 
 # Conspiracy
 
-Add child pages below as your wiki grows.
+Synthesized analysis of villain scheme threads and escalating situations.
 
-- [[Wiki/Conspiracy/SubTopic]] -- Description of subtopic
+*No active conspiracy threads yet.*
+
+## See Also
+
+- [[Wiki/NPCs]]
+- [[Wiki/Factions]]
+- [[Wiki/Dashboard]]

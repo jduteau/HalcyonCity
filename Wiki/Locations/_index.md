@@ -1,11 +1,16 @@
 ---
 type: hub
-namespace: "Wiki/Locations"
-updated: "2026-04-29"
+namespace: Wiki/Locations
+updated: 2026-04-29
 ---
 
 # Locations
 
-Add child pages below as your wiki grows.
+Named places in and around Halcyon City.
 
-- [[Wiki/Locations/SubTopic]] -- Description of subtopic
+*No location pages yet.*
+
+## See Also
+
+- [[Wiki/World/Halcyon-City]] — City overview (world knowledge)
+- [[Wiki/Dashboard]]

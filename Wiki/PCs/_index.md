@@ -1,11 +1,16 @@
 ---
 type: hub
-namespace: "Wiki/PCs"
-updated: "2026-04-29"
+namespace: Wiki/PCs
+updated: 2026-04-29
 ---
 
 # PCs
 
-Add child pages below as your wiki grows.
+Player characters — the young heroes of the Modern Generation.
 
-- [[Wiki/PCs/SubTopic]] -- Description of subtopic
+*No PC pages yet.*
+
+## See Also
+
+- [[Wiki/World/Modern-Generation]]
+- [[Wiki/Dashboard]]

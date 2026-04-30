@@ -1,17 +1,28 @@
 ---
 type: hub
-updated: "2026-04-29"
+namespace: Wiki
+updated: 2026-04-29
 ---
 
-# Wiki Dashboard
+# Halcyon City Wiki
 
-Overview and health status of your LLM Wiki.
-Last updated via `/wiki status` or `/wiki lint`.
+Campaign wiki for *Masks: A New Generation*. Setting: [[Wiki/World/Halcyon-City]].
 
 ## Namespaces
 
-{{NAMESPACES}}
+- [[Wiki/Locations]] — Places, neighborhoods, buildings, landmarks
+- [[Wiki/NPCs]] — Named GM-controlled characters
+- [[Wiki/PCs]] — Player characters (the young heroes)
+- [[Wiki/Factions]] — Organizations, agencies, villain groups
+- [[Wiki/Sessions]] — Session records
+- [[Wiki/Conspiracy]] — Villain scheme threads
+- [[Wiki/World]] — City history and superhero context
+- [[Wiki/Lore]] — In-world documents, rumors, legends
+- [[Wiki/State]] — Current session state
 
-## Schema
+## Quick Links
 
-- [[Wiki/Schema]] -- Namespace conventions, page types, lint rules
+- [[Wiki/State/Current-Session]] — Team status at session start
+- [[Wiki/World/Halcyon-City]] — City overview
+- [[Wiki/World/Superhero-Generations]] — The four generations of heroes
+- [[Wiki/Factions/AEGIS]] — Government metahuman agency
