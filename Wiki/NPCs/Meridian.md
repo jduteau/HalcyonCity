@@ -10,7 +10,6 @@ npc_scope: adult-hero
 last_location: "[[Wiki/World/Halcyon-City]]"
 allegiance_known: hero; Vigil's secondary mentor; Cypher's former apprentice
 allegiance_true: hero; wants Vigil to surpass and diverge from Cypher's model
-faction:
 first_session: 0
 gm_only: true
 

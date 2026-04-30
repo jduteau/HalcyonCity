@@ -10,15 +10,15 @@ Campaign wiki for *Masks: A New Generation*. Setting: [[Wiki/World/Halcyon-City]
 
 ## Namespaces
 
-- [[Wiki/Locations]] — Places, neighborhoods, buildings, landmarks
-- [[Wiki/NPCs]] — Named GM-controlled characters
-- [[Wiki/PCs]] — Player characters (the young heroes)
-- [[Wiki/Factions]] — Organizations, agencies, villain groups
-- [[Wiki/Sessions]] — Session records
-- [[Wiki/Conspiracy]] — Villain scheme threads
-- [[Wiki/World]] — City history and superhero context
-- [[Wiki/Lore]] — In-world documents, rumors, legends
-- [[Wiki/State]] — Current session state
+- [[Wiki/Locations/_index]] — Places, neighborhoods, buildings, landmarks
+- [[Wiki/NPCs/_index]] — Named GM-controlled characters
+- [[Wiki/PCs/_index]] — Player characters (the young heroes)
+- [[Wiki/Factions/_index]] — Organizations, agencies, villain groups
+- [[Wiki/Sessions/_index]] — Session records
+- [[Wiki/Conspiracy/_index]] — Villain scheme threads
+- [[Wiki/World/_index]] — City history and superhero context
+- [[Wiki/Lore/_index]] — In-world documents, rumors, legends
+- [[Wiki/State/_index]] — Current session state
 
 ## Quick Links
 

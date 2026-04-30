@@ -42,5 +42,5 @@ The PCs are the Modern Generation. This is their moment, still unwritten.
 - [[Wiki/World/Bronze-Generation]]
 - [[Wiki/World/Halcyon-City]]
 - [[Wiki/NPCs/Silver-Savior]]
-- [[Wiki/PCs]]
+- [[Wiki/PCs/_index]]
 - [[Wiki/Dashboard]]

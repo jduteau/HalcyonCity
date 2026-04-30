@@ -10,7 +10,6 @@ npc_scope: adult-hero
 last_location: "[[Wiki/Locations/Cyphers-Base]]"
 allegiance_known: hero; Vigil's primary mentor
 allegiance_true: hero; recruits and trains young heroes; full motives unknown
-faction:
 first_session: 0
 gm_only: true
 
