@@ -8,7 +8,8 @@ updated: 2026-04-29
 
 Named places in and around Halcyon City.
 
-*No location pages yet.*
+## Local Scale
+- [[Wiki/Locations/Cyphers-Base]] — Team headquarters; Cypher's hidden base
 
 ## See Also
 

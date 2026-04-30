@@ -8,7 +8,11 @@ updated: 2026-04-29
 
 Player characters — the young heroes of the Modern Generation.
 
-*No PC pages yet.*
+## Active Team
+
+- [[Wiki/PCs/Vigil]] — The Protégé (Jean); real name John
+- [[Wiki/PCs/Cinder]] — The Nova (GM-voiced); real name Sam
+- [[Wiki/PCs/Glitch]] — The Delinquent (GM-voiced); real name Petra
 
 ## See Also
 
